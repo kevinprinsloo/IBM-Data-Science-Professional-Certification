@@ -1,6 +1,13 @@
-![ViewCount](https://views.whatilearened.today/views/github/DanielBarnes18/IBM-Data-Science-Professional-Certification.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/DanielBarnes18/IBM-Data-Science-Professional-Certificate?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/DanielBarnes18/IBM-Data-Science-Professional-Certificate?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/kevinprinsloo/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/kevinprinsloo/IBM-Data-Science-Professional-Certification?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/kevinprinsloo/IBM-Data-Science-Professional-Certification?style=flat)
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
