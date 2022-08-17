@@ -21,5 +21,5 @@ To verify the certificates, click the images to follow the links.
 <p align="middle">
   <a href="https://coursera.org/share/0cfaaf7cf17e13b22ecbcd94aaa6d67a"><img src="https://raw.githubusercontent.com/kevinprinsloo/IBM-Data-Science-Professional-Certification/master/01.%20What%20is%20Data%20Science/.github/images/cert.png"
 " height="430"></a>
-  <a href="https://www.credly.com/badges/ef824c0d-c158-4cd9-b5ec-d1fa5c400e65/public_url"><img src="https://user-images.githubusercontent.com/84391594/152700877-0ff69fb5-e8bd-4d45-a743-b74e0d3bdd71.png" height="430"></a>
+  <a href="https://www.credly.com/earner/earned/badge/6bac87f1-1728-41d7-b258-03a36408e7e6"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="430"></a>
 </p>
