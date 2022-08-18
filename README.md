@@ -45,8 +45,9 @@ The following Python libraries were used throughout the certification: <br>
 
 
 ## 🏆 Certificates 
+
 To verify the certificates, click the images to follow the links.
 
 ### will upload once entire course is complete
 
-
+To verify the certificates, click the images to follow the links.
