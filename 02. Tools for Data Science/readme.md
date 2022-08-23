@@ -18,7 +18,7 @@ This course provides an introduction to the common programming languages used by
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/0cfaaf7cf17e13b22ecbcd94aaa6d67a"><img src="https://raw.githubusercontent.com/kevinprinsloo/IBM-Data-Science-Professional-Certification/master/01.%20What%20is%20Data%20Science/.github/images/cert.png"
+  <a href="https://coursera.org/share/afdd9b2ecfd65c7073845abc1cf83f16"><img src="https://github.com/kevinprinsloo/IBM-Data-Science-Professional-Certification/blob/master/02.%20Tools%20for%20Data%20Science/images/Certificate.png"
 " height="430"></a>
-  <a href="https://www.credly.com/earner/earned/badge/6bac87f1-1728-41d7-b258-03a36408e7e6"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="430"></a>
+  <a href="https://www.credly.com/earner/earned/badge/20ff4bcd-e140-4f84-82ba-388955bbc128"><img src="https://github.com/kevinprinsloo/IBM-Data-Science-Professional-Certification/blob/master/02.%20Tools%20for%20Data%20Science/images/Tools_for_Data_Science_Foundational.png" height="430"></a>
 </p>
